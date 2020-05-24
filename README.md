@@ -16,7 +16,7 @@ To get a better feeling of how these frameworks work and where their strengths a
 
 ### Hello World
 
-In the first stage we are only going to build a very simple and straigtforward application which only provides one GET endpoint and should return a custom greeting.
+In the first stage we are only going to build a very simple and straigtforward application which only provides one GET endpoint and should return hello world.
 
 ### Basic CRUD
 
