@@ -2,6 +2,14 @@
 
 The goal of this project is to compare different microservice frameworks based on performance, resource allocation and developer experience.
 
+## 🖼 Frameworks
+
+Frameworks that we are going to cover are:
+
+### (quarkus)[https://quarkus.io/]
+
+[...]
+
 ## 🧪 Scenarios
 
 To get a better feeling of how these frameworks work and where their strengths are we are going to cover different scenarios. The scenarios are ordered by their complexity. Starting with the lowest.
