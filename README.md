@@ -6,7 +6,7 @@ The goal of this project is to compare different microservice frameworks based o
 
 Frameworks that we are going to cover are:
 
-### (quarkus)[https://quarkus.io/]
+### [quarkus](https://quarkus.io/)
 
 [...]
 
@@ -16,7 +16,7 @@ To get a better feeling of how these frameworks work and where their strengths a
 
 ### Hello World
 
-In the first stage we are only going to build a very simple and straigtforward application which only provides one GET endpoint and should return hello world.
+In the first stage we are only going to build a very simple and straigtforward application which only provides one GET endpoint and should return `hello world`.
 
 ### Basic CRUD
 
